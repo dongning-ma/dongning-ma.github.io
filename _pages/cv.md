@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<object data="/files/cv.pdf" type="application/pdf" width="1920px" height="1080px">
+    <embed src="/files/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
