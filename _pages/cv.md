@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If the PDF does not show correctly, please click [here](/files/cv.pdf).
+If the PDF does not show correctly, please click [here](/files/cv.pdf) for a raw PDF.
 
 <object data="/files/cv.pdf" type="application/pdf" width="1600px" height="1200px">
     <embed src="/files/cv.pdf">
