@@ -17,7 +17,8 @@ I am actively looking for research positions in industry or tenure-track positio
 **You can check my up-to-date CV [here](/cv/)!**
 
 # News
-- **2025/08:** One paper on the topic of "Hyperdimensional Computing Based Blockchain" accepted to BioCAS'25!
-- **2025/08:** One paper on the topic of "Silent Data Corruptions in Deep Recommender Systems" accepted to ISSRE'25!
+- **2025/09:** One poster and demo presentation about "Spike Sorting Interface" accepted to NER'25!
+- **2025/08:** One paper about "Hyperdimensional Computing Based Blockchain" accepted to BioCAS'25!
+- **2025/08:** One paper about "Silent Data Corruptions in Deep Recommender Systems" accepted to ISSRE'25!
 - **2025/08:** I joined Mohamed bin Zayed University of Artificial Intelligence as a postdoctoral research associate, working with Prof. Abdulrahman Mahmoud and Prof. Chun Jason Xue! 
 - **2025/04:** I successfuly defended my Ph.D. thesis! 
