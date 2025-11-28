@@ -17,6 +17,7 @@ I am actively looking for research positions in industry or tenure-track positio
 **You can check my up-to-date CV [here](/cv/)!**
 
 # News
+- **2025/11:** Our paper about "Stealing Hyperdimensional Computing Models" accepted to WSDM'26!
 - **2025/10:** Our ISSRE'25 paper wins the best research paper award!
 - **2025/09:** One poster and demo presentation about "Spike Sorting Interface" accepted to NER'25!
 - **2025/08:** One paper about "Hyperdimensional Computing Based Blockchain" accepted to BioCAS'25!
