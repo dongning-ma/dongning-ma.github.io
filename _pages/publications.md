@@ -16,6 +16,7 @@ I have published more than 30 papers in venues including ASPLOS, DAC, SIGIR, and
 - Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", IEEE Embedded Systems Letters (**ESL**), 2019.
 
 ### Conference
+- Ruixuan Wang, Dongning Ma, Xun Jiao, "Understanding the Robustness of BERT Models Against Hardware Errors: An Experimental Study", 24th International Conference on Applied Cryptography and Network Security (**ACNS**). Stony Brook, New York, 2026. (Accepted with Shepherding)
 - Jinghao Wen, Dongning Ma, Xun Jiao, "MILEAM: Modeling Input-Aware Logic Errors of Approximate Multipliers Using Machine Learning", 2026 IEEE International Symposium on Circuits and Systems (**ISCAS**). Shanghai, China, 2026.
 - Dongning Ma, Ruixuan Wang, Xun Jiao, "Stealing Black‑box Hyperdimensional Computing Models Without
 Data", 19th ACM International Conference on Web Search and Data Mining (**WSDM**). Boise, Idaho, 2026.

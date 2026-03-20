@@ -17,6 +17,7 @@ I am actively looking for research positions in industry or tenure-track positio
 **You can check my up-to-date CV [here](/cv/)!**
 
 # News
+- **2026/03:** Our paper about "Soft Error Injection to NLP Models" accepted (with shepherding) to ACNS'26!
 - **2026/01:** Our paper about "Error Modeling of Approximate Computing Circuits" accepted to ISCAS'26!
 - **2025/11:** Our paper about "Stealing Hyperdimensional Computing Models" accepted to WSDM'26!
 - **2025/10:** Our ISSRE'25 paper wins the best research paper award!
