@@ -16,10 +16,11 @@ I have published more than 30 papers in venues including ASPLOS, DAC, SIGIR, and
 - Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", IEEE Embedded Systems Letters (**ESL**), 2019.
 
 ### Conference
-- Ruixuan Wang, Dongning Ma, Xun Jiao, "Understanding the Robustness of BERT Models Against Hardware Errors: An Experimental Study", 24th International Conference on Applied Cryptography and Network Security (**ACNS**). Stony Brook, New York, 2026. (Accepted with Shepherding)
-- Jinghao Wen, Dongning Ma, Xun Jiao, "MILEAM: Modeling Input-Aware Logic Errors of Approximate Multipliers Using Machine Learning", 2026 IEEE International Symposium on Circuits and Systems (**ISCAS**). Shanghai, China, 2026.
+- Jinghao Wen, Dongning Ma, Sizhe Zhang, Xun Jiao, "HDFlow: A Multi-layer Design and Evaluation Framework for Hyperdimensional Computing", 2026 International Joint Conference on Neural Networks (**IJCNN**), Maastricht, Netherland.
+- Ruixuan Wang, Dongning Ma, Xun Jiao, "Understanding the Robustness of BERT Models Against Hardware Errors: An Experimental Study", 24th International Conference on Applied Cryptography and Network Security (**ACNS**), Stony Brook, New York, 2026. (Accepted with Shepherding)
+- Jinghao Wen, Dongning Ma, Xun Jiao, "MILEAM: Modeling Input-Aware Logic Errors of Approximate Multipliers Using Machine Learning", 2026 IEEE International Symposium on Circuits and Systems (**ISCAS**), Shanghai, China, 2026.
 - Dongning Ma, Ruixuan Wang, Xun Jiao, "Stealing Black‑box Hyperdimensional Computing Models Without
-Data", 19th ACM International Conference on Web Search and Data Mining (**WSDM**). Boise, Idaho, 2026.
+Data", 19th ACM International Conference on Web Search and Data Mining (**WSDM**), Boise, Idaho, 2026.
 - Jinghao Wen, Dongning Ma, Sizhe Zhang, Hasshi Sudler, Xun Jiao, "Proof-of-Useful-Work Blockchain for Trustworthy Biomedical Hyperdimensional Computing", 21st IEEE Biomedical Circuits and Systems Conference (**BioCAS**), Abu Dhabi, United Arab Emirates, 2025.
 - Dongning Ma, Xun Jiao, Fred Lin, Daniel Moore and Sriram Sankar，"Understanding Recommendation System Robustness Against Silent Data Corruption: An Empirical Study", 36th IEEE International Symposium on Software Reliability Engineering (**ISSRE**), São Paulo, Brazil, 2025. **(Best Research Paper Award)**
 - Dongning Ma, Xun Jiao, "Memory-Efficient Deep Recommender Systems using Approximate Rotary Compositional Embedding", The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), Washington D.C., 2024.
