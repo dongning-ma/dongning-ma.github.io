@@ -7,6 +7,9 @@ redirect_from:
   - /courses
 ---
 
+## Mohamed bin Zayed University of Artificial Intelligence
+- **CS7201 / CS8201 -  Foundations of AI System Design** — Teaching Assistant *(Spring 2026)*
+
 ## Villanova University
 
 - **ECE 1205 - ECE Freshman Projects** — Teaching Assistant *(Spring 2025)*

@@ -17,8 +17,8 @@ I have published more than 30 papers in venues including ASPLOS, DAC, SIGIR, and
 
 ### Conference
 - Jinghao Wen, Dongning Ma, Sizhe Zhang, Xun Jiao, "HDFlow: A Multi-layer Design and Evaluation Framework for Hyperdimensional Computing", 2026 International Joint Conference on Neural Networks (**IJCNN**), Maastricht, Netherland.
-- Ruixuan Wang, Dongning Ma, Xun Jiao, "Understanding the Robustness of BERT Models Against Hardware Errors: An Experimental Study", 24th International Conference on Applied Cryptography and Network Security (**ACNS**), Stony Brook, New York, 2026. (Accepted with Shepherding)
-- Jinghao Wen, Dongning Ma, Xun Jiao, "MILEAM: Modeling Input-Aware Logic Errors of Approximate Multipliers Using Machine Learning", 2026 IEEE International Symposium on Circuits and Systems (**ISCAS**), Shanghai, China, 2026.
+- Ruixuan Wang, Dongning Ma, Xun Jiao, "Understanding the Robustness of BERT Models Against Hardware Errors: An Experimental Study", 24th International Conference on Applied Cryptography and Network Security (**ACNS**), Stony Brook, New York, 2026.
+- Jinghao Wen, DongniMa, Xun Jiao, "MILEAM: Modeling Input-Aware Logic Errors of Approximate Multipliers Using Machine Learning", 2026 IEEE International Symposium on Circuits and Systems (**ISCAS**), Shanghai, China, 2026.
 - Dongning Ma, Ruixuan Wang, Xun Jiao, "Stealing Black‑box Hyperdimensional Computing Models Without
 Data", 19th ACM International Conference on Web Search and Data Mining (**WSDM**), Boise, Idaho, 2026.
 - Jinghao Wen, Dongning Ma, Sizhe Zhang, Hasshi Sudler, Xun Jiao, "Proof-of-Useful-Work Blockchain for Trustworthy Biomedical Hyperdimensional Computing", 21st IEEE Biomedical Circuits and Systems Conference (**BioCAS**), Abu Dhabi, United Arab Emirates, 2025.
