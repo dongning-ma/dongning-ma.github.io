@@ -11,6 +11,8 @@ redirect_from:
   - /honor
 ---
 
+---
+
 # Services
 
 ## Program Committee
@@ -43,7 +45,7 @@ redirect_from:
 
  - The International Joint Conference on Neural Networks (IJCNN) 2026
 
-# Awards
+# Honors
 
 - SIGIR 2024 Student Travel Award (NSF) and Volunteer
 - BIBM 2022 Student Travel Award (NSF and TCCLS) and Volunteer
